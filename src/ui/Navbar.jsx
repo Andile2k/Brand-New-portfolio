@@ -40,6 +40,7 @@ const Navbar = () => {
           </div>
         ))}
       </div>
+      <div className="cover"></div>
     </nav>
   );
 };
